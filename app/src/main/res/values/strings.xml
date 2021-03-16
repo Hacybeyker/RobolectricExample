@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Robolectric</string>
+    <string name="hi">Hi</string>
+    <string name="click_me">Click Me!</string>
+    <string name="don_t_click">Don\'t Click!</string>
+    <string name="new_intent">new Intent</string>
+</resources>
